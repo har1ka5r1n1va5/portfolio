@@ -9,7 +9,3 @@ window.onscroll = function() {
         header.classList.remove('navbarDark');
     }
 }
-let themeElement=document.getElementById("theme1")
-function themebtn(){
-    themeElement.classList.toggle("dark")
-}
